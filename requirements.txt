@@ -1,0 +1,7 @@
+Pandas
+Numpy
+Matplotlib
+scikit-learn
+flask
+ipykernel
+requests
